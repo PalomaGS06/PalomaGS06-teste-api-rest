@@ -3,7 +3,7 @@
 
 <h2 align="center">Tecnologias utilizadas: </h2>
 <!--ts-->
-. Java (#Java)
-. JSON (#JSON)
-. Maven( #Maven)
-. Postman  (#Postman) <!--te-->
+[. Java] (#Java)
+[. JSON ](#JSON)
+[. Maven] (#Maven)
+[. Postman]  (#Postman) <!--te-->
